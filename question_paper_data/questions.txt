@@ -1,0 +1,72 @@
+{
+    "count": 10,
+    "questions": [
+        {
+            "code": "q1",
+            "type": "easy",
+            "weightage": 1
+        },
+        {
+            "code": "q2",
+            "type": "easy",
+            "weightage": 2
+        },
+        {
+            "code": "q3",
+            "type": "medium",
+            "weightage": 2
+        },
+        {
+            "code": "q4",
+            "type": "hard",
+            "weightage": 9
+        },
+        {
+            "code": "q5",
+            "type": "easy",
+            "weightage": 3
+        },
+        {
+            "code": "q6",
+            "type": "hard",
+            "weightage": 7
+        },
+        {
+            "code": "q7",
+            "type": "medium",
+            "weightage": 3
+        },
+        {
+            "code": "q8",
+            "type": "easy",
+            "weightage": 2
+        },
+        {
+            "code": "q9",
+            "type": "medium",
+            "weightage": 5
+        },
+        {
+            "code": "q10",
+            "type": "hard",
+            "weightage": 5
+        }
+    ],
+    "questionPaper": {
+        "marks": 20,
+        "questionType": [
+            {
+                "type": "easy",
+                "percentage": 25
+            },
+            {
+                "type": "medium",
+                "percentage": 50
+            },
+            {
+                "type": "hard",
+                "percentage": 25
+            }
+        ]
+    }
+}
